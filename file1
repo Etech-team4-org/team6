@@ -1,6 +1,7 @@
 
 #we are enjoying git
 #yet another line
+#one more line of comment
 FRUITS
 Apple
 Banana
@@ -10,7 +11,6 @@ Mango
 VEGGIES
 Carrot
 Broccoli
-Spinach
 Bell Pepper
 Cucumber
 huckleberries
@@ -26,4 +26,5 @@ NY
 NJ
 CT
 OH
-TX
+CHICAGO
+
